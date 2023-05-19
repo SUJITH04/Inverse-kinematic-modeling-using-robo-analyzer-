@@ -1,4 +1,6 @@
 # Inverse-kinematic-modeling-using-robo-analyzer-
+## SUJITH
+## 212221220052
 
  
 ## AIM: 
