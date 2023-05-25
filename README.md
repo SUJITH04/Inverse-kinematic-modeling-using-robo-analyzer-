@@ -38,9 +38,14 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ![image](https://user-images.githubusercontent.com/36288975/170623020-f27efc12-bb58-4f62-840d-af544ac6689e.png)
 
 ### PROCEDURE:
-
-
-
+```
+open the roboanalyzer software.
+select the robot and its degrees of freedom.
+change the values of X and Y wherever necessary.
+simulate the model for inverse kinematics.
+plot the graph between the joints.
+update the DH parameters of the link configuration and end effector configuration.
+```
 
 
 
@@ -49,39 +54,59 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ### SIMULATION 
  
  
+ RPR ROBOT:
+ 
+ 
+ 
+ ![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/61a7eb3b-a1f4-40e0-ac83-c9f9e4363e67)
+
+
+![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/fd6a4ef4-d081-481b-b21c-9ec38be5b3ce)
+
  
  
  
  
  
- ### PLOT 
+ 3R ROBOT:
  
  
  
  
  
  
- 
- 
- 
- 
- 
+ ![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/c12350ee-2dc5-4fc0-a806-7911ee01299e)
+
  
 
  
  
+### PLOT
 
 
 
+RPR ROBOT:
 
 
 
+![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/1478f9c6-765f-477a-b7e3-b239d3fb8eaf)
 
 
 
+![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/b74a11c1-7f99-449d-ad37-62eae838d13c)
 
 
 
+3R ROBOT:
 
+
+
+![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/64878869-50b4-4245-9896-a2b8fc288805)
+
+
+
+![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/5cfe6aec-49f6-4933-b3e1-3f11ff019716)
 
 ### RESULTS :  
+
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted
