@@ -1,4 +1,4 @@
-# EXPERIMENT:3 Inverse-kinematic-modeling-using-robo-analyzer-
+# EXPERIMENT:3 Inverse kinematic modeling using robo analyzer
 
 ## AIM: 
 To analyze the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer and polt the graph of joint angle for a given  input end effector position .
